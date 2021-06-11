@@ -13,6 +13,6 @@
 - Software:
   - Python 6.3.1
   - Jupyter Notebook
-  - Pandas, NumPy, Matplotlib Libraries 
+  - Pandas, NumPy, Matplotlib, and SciPy Libraries 
 
 ## Analysis
