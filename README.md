@@ -28,18 +28,21 @@ This bubble plot shows how even though rural areas have less rides, their fares 
 ![Fig6](https://user-images.githubusercontent.com/83378141/121764252-98e51f80-cb10-11eb-81db-c5478efee6b8.png) 
 ![Fig2](https://user-images.githubusercontent.com/83378141/121764606-3b9e9d80-cb13-11eb-98c0-82807bccbb93.png)
 
-Almost 69% of the rides, and therefore the market, come from urban areas. And only 5% from rural. 
+Almost 69% of the rides, and therefore the market, come from urban areas. And only 5% from rural. Also, as it can be seen in the box plot the average number of rides for urban areas was 3 times more than in rural. The maximum number of rides in rural areas was the minimum number of rides from urban. PyBer is considerably more present in the these big cities. 
 
 ![Fig7](https://user-images.githubusercontent.com/83378141/121764390-81f2fd00-cb11-11eb-8516-fcc05ffcbcf8.png)
 ![Fig4](https://user-images.githubusercontent.com/83378141/121764626-638e0100-cb13-11eb-92b4-5f6ca17ba333.png)
 
-
-Urban areas also happen to have the majority of the drivers and rural the minority. 
+Urban areas also happen to have the majority of the drivers and rural the minority. Urban areas have 8 times more drivers than rural. The presence of drivers in the suburban areas is also not as large as urban. There is clear imbalance in driver distribution across city types. 
 
 ![Fig5](https://user-images.githubusercontent.com/83378141/121763621-90d6b100-cb0b-11eb-8f91-30ce108735b0.png)
 ![Fig3](https://user-images.githubusercontent.com/83378141/121764647-85878380-cb13-11eb-88c6-17eabc57602f.png)
 
-As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive.
+As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive. This can be seen in the box plot as rural areas happen to have a higher overall distribution of fare prices. Nevertheless, their ranges happen to be quite similar. 
+
+## Summary
+
+
 
 
 
