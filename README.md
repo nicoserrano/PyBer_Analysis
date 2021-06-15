@@ -2,7 +2,7 @@
 
 #### Analysis on ridesharing data using Pandas, NumPy, and Matplotlib Libraries. 
 
-## Overview
+## Overview of the Analysis
 In this project I will be working with ridesharing data from different cities located in urban, suburban, and rural areas. The goal will be to produce a complete analysis with visualizations in order to help PyBer improve access to ridesharing services and determine affordability for underserved neighborhoods. 
 
 ## Resources
