@@ -40,8 +40,17 @@ Urban areas also happen to have the majority of the drivers and rural the minori
 
 As for fares, urban areas have the majority with a 63%. Suburban and rural still have a relatively big part of the whole as their fares are more expensive. This can be seen in the box plot as rural areas happen to have a higher overall distribution of fare prices. Nevertheless, their ranges happen to be quite similar. 
 
+![Fares_by_City_Type](https://user-images.githubusercontent.com/83378141/122076186-a75d6080-cdc8-11eb-8085-8545e66a3c1e.png)
+
+And last but not least, the multi-line graph that shows the weekly fares for all three city types from January 2019 to April of the same year. The graph shows that the sum of fares for urban cities was more than $1800 which is more than 3 times the max value for the rural cities. The sum of fares for suburban cities was less than $1500 throughout. Even though we concluded that the fares were more expensive in rural areas, this graph still happens to address that urban sum of fares was relatively a lot higher. This because the sum of fares accounts for all the rides made during that time, which we also concluded that urban cities had a lot more drivers and rides made. 
+
 ## Summary
 
+In conclusion, some recommendations that could be made to PyBer are as follows:
+
+- In order to increase market presence in suburban and rural areas, PyBer needs to contract more drivers. As it can be seen in the *driver count box plot*, the spread for rural drivers count is very small in comparison to the other two. There are no more than 10 drivers in the a rural city. The first recommendation would be to create incentives for drivers in these areas that can bring that count up. Assuming there is enough demand and the utilization rate for these current drivers is very high, having more drivers would increase revenue by a lot as fares are very highly priced in rural cities.
+- Likewise, the second recommendation would consist on creating the same incentives but for suburban cities as their driver and ride count is still opaqued by urban. Again, this would significantly increase revenue as fares are higher in suburban cities and having more rides would maximize profit.
+- And lastly, I would recommend to decrease the driver count in urban cities by a small amount as they account for almost 81% of the total PyBer drivers. It is important that we balance that percentage so that there are more drivers in the other areas, specially rural. By doing this, we would also bring the average fare price in urban areas higher as there might be less supply to cover for that large demand. Again, this would have to be a small change for the system not to collapse for not enough PyBers in urban cities. 
 
 
 
