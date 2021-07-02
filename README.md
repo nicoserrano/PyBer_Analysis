@@ -11,7 +11,7 @@ In this project I will be working with ridesharing data from different cities lo
   - ride_data.csv
 
 - Software:
-  - Python 6.3.1
+  - Python 3.6.1
   - Jupyter Notebook
   - Pandas, NumPy, Matplotlib, and SciPy Libraries 
 
